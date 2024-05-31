@@ -6,6 +6,6 @@
 ○ Organize the scraped data in a structured JSON or CSV format.
 
 ## Setup
-1. Clone the repository:
+1. Clone the repository: [Visit Website](https://github.com/rsh7989/Flipkart.git)
 
 
