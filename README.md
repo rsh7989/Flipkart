@@ -17,7 +17,7 @@
    mvn test
 
 ### Output
-- `hindi books.json`: Data scraped from the e-commerce site [Visit Website](https://www.flipkart.com/"Flipkart").
+- `hindi_books.json`: Data scraped from the e-commerce site [Visit Website](https://www.flipkart.com/"Flipkart").
 
 ### Demo Video
 A demo video of the automation process can be found [here](https://drive.google.com/file/d/1rs1xI3-wrnS3qyHonVzs7FmyS7FuAtaF/view?usp=drive_link).
